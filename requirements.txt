@@ -1,0 +1,10 @@
+setuptools~=57.0.0
+wheel
+pytest-cov
+pytest~=6.2.5
+pycodestyle
+pytest-pylint
+pandas~=1.3.4
+Flask~=2.0.2
+uWSGI
+Faker
