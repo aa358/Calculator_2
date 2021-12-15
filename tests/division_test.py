@@ -15,3 +15,4 @@ def test_divide_by_zero():
     nums = (6, 0)
     division = Division(nums)
     assert division.get_result() == ZeroDivisionError
+
