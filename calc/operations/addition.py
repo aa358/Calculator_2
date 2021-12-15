@@ -2,9 +2,6 @@
 from calc.operations.calculation import Calculation
 
 
-# pylint: disable=too-few-public-methods
-
-
 class Addition(Calculation):
     """Adding numbers"""
 
