@@ -15,3 +15,4 @@ class Multiplication(Calculation):
             result = result * value
             print(result)
         return result
+
